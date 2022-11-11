@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kodden-br
+- 👀 I’m interested in web dev
+- 🌱 I’m currently learning react, marko...
+- 💞️ I’m looking to collaborate on: let's talk about.
+- 📫 How to reach me: send a message ;)
