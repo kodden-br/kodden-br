@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kodden-br
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning Solid, Qwik, Marko, and Hotwire.
-- 💞️ I’m looking to collaborate on: let's talk about.
-- 📫 How to reach me: send a message ;)
+- 👀 I’m interested in web dev and infosec
+- 🌱 I’m currently learning Gatsby, Solid, Qwik, Marko, and Hotwire.
+- 💞️ I’m looking to collaborate on, let's talk about.
+- 📫 How to reach me? send a message ;)
