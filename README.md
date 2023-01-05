@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kodden-br
+- 👋 Hi, I’m @kodden-br, my name is Frederico Tavares and I am from Brazil
 - 👀 I’m interested in web dev and infosec
-- 🌱 I’m currently learning Gatsby, Solid, Qwik, Marko, and Hotwire.
-- 💞️ I’m looking to collaborate on, let's talk about.
+- 🌱 I’m currently learning Gatsby, Solid, Qwik, Marko, and Hotwire
+- 💞️ I’m looking to collaborate on, let's talk about
 - 📫 How to reach me? send a message ;)
