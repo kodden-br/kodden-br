@@ -3,3 +3,17 @@
 - 🌱 I’m currently learning | web: Gatsby, Solid, Qwik, Marko and Hotwire , infosec: Reverse Engineering, Malware Analysis |
 - 💞️ I’m looking to collaborate on, let's talk about it
 - 📫 How to reach me? Send a message, you are all welcome ;)
+- -
+- 👋 Olá, sou @kodden-br, meu nome é Frederico Tavares e sou do Brasil
+- 👀 Estou interessado em desenvolvimento web e cibersegurança
+- 🌱 Atualmente estou aprendendo | Web: Gatsby, Solid, Qwik, Marko e Hotwire | Infosec: Engenharia Reversa, Análise de Malware |
+- 💞️ Estou procurando uma colaboração, vamos conversar sobre isso
+- 📫 Como chegar até mim? Mande uma mensagem, sejam todos bem vindos ;)
+- -
+- 👋 Hola, soy @kodden-br, mi nombre es Frederico Tavares y soy de Brasil.
+- 👀 Me interesa el desarrollo web y la seguridad de la información
+- 🌱 Actualmente estoy aprendiendo | web: Gatsby, Solid, Qwik, Marko y Hotwire, infosec: ingeniería inversa, análisis de malware |
+- 💞️ Estoy buscando colaborar, hablemos de eso
+- 📫 ¿Cómo contactarme? Manden un mensaje, son todos bienvenidos ;)
+- -
+- peace in your heart.
