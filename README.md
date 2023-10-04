@@ -1,26 +1,27 @@
 
 ---en
-- 👋 Hi, I’m @kodden-br, my name is Frederico Tavares and I am from Brazil
-- 👀 I’m interested in web dev and infosec
-- 🌱 I’m currently learning | web: Gatsby, Solid, Qwik, Marko and Hotwire , infosec: Reverse Engineering, Malware Analysis |
-- 💞️ I’m looking to collaborate on, let's talk about it
-- 📫 How to reach me? Send a message, you are all welcome ;)
+👋 Hi, my name is Frederico Tavares and I am from Brazil
+👀 I’m interested in web dev and infosec
+🌱 I’m currently learning: Web(Solid, Qwik, Marko and Hotwire) * infosec(Reverse Engineering, Malware Analysis) + Cloud(AWS)
+💞️ I’m looking to collaborate on, let's talk about it
+📫 How to reach me? Send a message, you are all welcome ;)
 -
-- ---pt-br
-- 👋 Olá, sou @kodden-br, meu nome é Frederico Tavares e sou do Brasil
-- 👀 Estou interessado em desenvolvimento web e cibersegurança
-- 🌱 Atualmente estou aprendendo | Web: Gatsby, Solid, Qwik, Marko e Hotwire | Infosec: Engenharia Reversa, Análise de Malware |
-- 💞️ Estou procurando uma colaboração, vamos conversar sobre isso
-- 📫 Como chegar até mim? Mande uma mensagem, sejam todos bem vindos ;)
+---pt-br
+👋 Olá, meu nome é Frederico Tavares e sou do Brasil
+👀 Estou interessado em desenvolvimento web e cibersegurança
+🌱 Atualmente estou aprendendo: Web(Solid, Qwik, Marko and Hotwire) * infosec(Reverse Engineering, Malware Analysis) + Cloud(AWS)
+💞️ Estou procurando uma colaboração, vamos conversar sobre isso
+📫 Como chegar até mim? Mande uma mensagem, sejam todos bem vindos ;)
 -
-- ---es
-- 👋 Hola, soy @kodden-br, mi nombre es Frederico Tavares y soy de Brasil.
-- 👀 Me interesa el desarrollo web y la seguridad de la información
-- 🌱 Actualmente estoy aprendiendo | web: Gatsby, Solid, Qwik, Marko y Hotwire, infosec: ingeniería inversa, análisis de malware |
-- 💞️ Estoy buscando colaborar, hablemos de eso
-- 📫 ¿Cómo contactarme? Manden un mensaje, son todos bienvenidos ;)
-- -
+---es
+👋 Hola, mi nombre es Frederico Tavares y soy de Brasil.
+👀 Me interesa el desarrollo web y la seguridad de la información
+🌱 Actualmente estoy aprendiendo: Web(Solid, Qwik, Marko and Hotwire) * infosec(Reverse Engineering, Malware Analysis) + Cloud(AWS)
+💞️ Estoy buscando colaborar, hablemos de eso
+📫 ¿Cómo contactarme? Manden un mensaje, son todos bienvenidos ;)
 - 
+[]s
 Best Regards!
 -
+
 --
