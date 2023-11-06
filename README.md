@@ -6,7 +6,7 @@
 <p>I’m currently learning: Web(Solid, Qwik, Marko and Hotwire) * infosec(Reverse Engineering, Malware Analysis) + Cloud(AWS).</p>
 <p>I’m looking to collaborate on, let's talk about it.</p>
 <p>Send a message, you are all welcome.</p>
-
+<br>
 <p>Olá, meu nome é <bold>Frederico Tavares</bold> e sou do Brasil.</p>
 <p>Estou interessado em desenvolvimento web e cibersegurança.</p>
 <p>Atualmente estou aprendendo: Web(Solid, Qwik, Marko and Hotwire) * infosec(Reverse Engineering, Malware Analysis) + Cloud(AWS).</p>
