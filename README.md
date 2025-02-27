@@ -6,7 +6,7 @@
 
 </head>
 <body>
-<h1 style="text-align: center;">🎸 <b>Nirvana Tribute</b> 🎸</h1>
+<h1 style="text-align: center;"><b>Welcome</b></h1>
 
 <pre style="font-family: monospace;">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -38,9 +38,6 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠙⠻⠿⠿⠿⠿⠟⠛⠛⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </pre>
-
-<h2>Homenagem à "Smells Like Teen Spirit" 🌟</h2>
-<p>Nirvana foi uma das bandas mais influentes dos anos 90, revolucionando o rock com seu som único e letras poderosas. "Smells Like Teen Spirit" é uma das músicas mais icônicas da banda, sendo um hino para a geração grunge.</p>
 
 
 </body>
